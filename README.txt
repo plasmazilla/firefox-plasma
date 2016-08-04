@@ -1,4 +1,9 @@
 
+
+Firefox currently still from here:
+https://code.launchpad.net/~mozillateam/firefox/firefox.xenial
+
+
 Firefox is patched with this:
 http://www.rosenauer.org/hg/mozilla/
 
