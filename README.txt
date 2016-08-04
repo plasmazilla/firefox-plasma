@@ -6,7 +6,7 @@ https://code.launchpad.net/~mozillateam/firefox/firefox.xenial
 Firefox is patched with this:
 http://www.rosenauer.org/hg/mozilla/
 
-Bugs: https://bugs.launchpad.net/firefox-kde-support/+bug/949949
+
 
 
 firefox-kde/plasma on other systems:
@@ -50,5 +50,7 @@ Resources
 ========
 
 Kubuntu packages: https://launchpad.net/~plasmazilla/+archive/ubuntu/releases
+
+Bugs: https://bugs.launchpad.net/firefox-kde-support/+bug/949949
 
 
