@@ -3,11 +3,25 @@
 Firefox currently still from here:
 https://code.launchpad.net/~mozillateam/firefox/firefox.xenial
 
-
 Firefox is patched with this:
 http://www.rosenauer.org/hg/mozilla/
 
 Bugs: https://bugs.launchpad.net/firefox-kde-support/+bug/949949
+
+
+firefox-kde/plasma on other systems:
+========
+
+OpenSuse:
+https://build.opensuse.org/package/show?package=MozillaFirefox&project=openSUSE%3AFactory
+
+AUR:
+https://aur.archlinux.org/packages/firefox-kde-opensuse/
+
+Manjaro:
+https://github.com/manjaro/packages-community/tree/master/firefox-kde
+
+
 
 
 History
