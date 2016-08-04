@@ -13,6 +13,7 @@ Bugs: https://bugs.launchpad.net/firefox-kde-support/+bug/949949
 History
 ========
 
+2009-11-13:
 Wolgang Rosenauers first announcement, that lead to opensuse patches:
 https://groups.google.com/forum/#!topic/mozilla.dev.platforms.linux/XKyWG8NwSeA
 
